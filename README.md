@@ -22,4 +22,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## preview
 
-`node prod.js`
+`node prod.server.js`
